@@ -1,0 +1,126 @@
+{
+  "students": [
+    {
+      "name": "HEMA",
+      "email": "hema2@gmail.com",
+      "department": "Artificial Intelligence",
+      "year": 4,
+      "cgpa": 9.1,
+      "id": 1
+    },
+    {
+      "name": "JOSE",
+      "email": "jose@gmail.com",
+      "department": "Computer Science",
+      "year": 4,
+      "cgpa": 9.2,
+      "id": 2
+    },
+    {
+      "name": "yuvashree",
+      "email": "yuva@gmail.com",
+      "department": "Computer Science",
+      "year": 1,
+      "cgpa": 8.9,
+      "id": 3
+    },
+    {
+      "name": "archu",
+      "email": "archu@gmail.com",
+      "department": "Computer Science",
+      "year": 2,
+      "cgpa": 8.6,
+      "id": 4
+    },
+    {
+      "name": "saranya",
+      "email": "saraalice@gmail.com",
+      "department": "Information Technology",
+      "year": 2,
+      "cgpa": 8,
+      "id": 5
+    },
+    {
+      "name": "jaya",
+      "email": "jaya@gmail.com",
+      "department": "Artificial Intelligence",
+      "year": 3,
+      "cgpa": 7.9,
+      "id": 6
+    },
+    {
+      "name": "8978",
+      "email": "shri25@gmail.com",
+      "department": "Information Technology",
+      "year": 2,
+      "cgpa": 8.9,
+      "id": 7
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Subha",
+      "email": "subha@saec.ac.in",
+      "department": "Artificial Intelligence and Data Science",
+      "subject": "artificial intelligence",
+      "yearOfStudy": "Year 2",
+      "id": 1
+    },
+    {
+      "name": "aravind",
+      "email": "aravind@gmail.com",
+      "department": "Computer Science",
+      "subject": "c programming",
+      "yearOfStudy": "Year 3",
+      "id": 2
+    },
+    {
+      "name": "keerthana",
+      "email": "keerthana@gmail.com",
+      "department": "Electronics and Communication",
+      "subject": "electronics",
+      "yearOfStudy": "Year 1",
+      "id": 3
+    },
+    {
+      "name": "sahana",
+      "email": "saha@gmail.com",
+      "department": "Mechanical Engineering",
+      "subject": "mechanics",
+      "yearOfStudy": "Year 3",
+      "id": 4
+    },
+    {
+      "name": "shri",
+      "email": "shri@gmail.com",
+      "department": "Civil Engineering",
+      "subject": "architecture",
+      "yearOfStudy": "Year 1",
+      "id": 5
+    },
+    {
+      "name": "nirmala",
+      "email": "nirm@gmail.com",
+      "department": "Information Technology",
+      "subject": "information technology",
+      "yearOfStudy": "Year 3",
+      "id": 6
+    },
+    {
+      "name": "samera",
+      "email": "samera2@gmail.com",
+      "department": "Electrical and Electronics",
+      "subject": "electrical",
+      "yearOfStudy": "Year 3",
+      "id": 7
+    },
+    {
+      "name": "ishwarya",
+      "email": "ishu@gmail.com",
+      "department": "Information Technology",
+      "subject": "technology",
+      "yearOfStudy": "Year 3",
+      "id": 8
+    }
+  ]
+}
